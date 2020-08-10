@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">MyApp</string>
+    <string name="app_name">BMI</string>
     <string name="myname">Maryam</string>
     <string name="myName2">Kovi</string>
     <string name="myName3">krushi</string>
+    <string name="btn1">BMI Calculator</string>
+
 </resources>
