@@ -4,5 +4,8 @@
     <string name="myName2">Kovi</string>
     <string name="myName3">krushi</string>
     <string name="btn1">BMI Calculator</string>
+    <string name="btn2">BMR Calculator</string>
+    <string name="btn3">WTH Percentage</string>
+    <string name="txt1">Keep Your health in check !!!</string>
 
 </resources>
